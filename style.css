@@ -8,6 +8,9 @@ body {
     justify-content: center;
     overflow: hidden;
     background-color: powderblue;
+    background-image:url('https://t3.ftcdn.net/jpg/06/73/50/30/240_F_673503017_qjrtbl2aT4IshgPdLiHxkLLfHmJB9mMG.jpg');
+     background-size: cover;
+        background-repeat: no-repeat;
     background-image: linear-gradient(to left, powderblue, rgb(255, 255, 100));
     color: black;
 }
